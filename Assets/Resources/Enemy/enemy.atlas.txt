@@ -1,0 +1,89 @@
+
+enemy.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head
+  rotate: false
+  xy: 814, 187
+  size: 117, 67
+  orig: 117, 67
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 448, 140
+  size: 116, 114
+  orig: 116, 114
+  offset: 0, 0
+  index: -1
+leg1r
+  rotate: false
+  xy: 330, 140
+  size: 116, 114
+  orig: 116, 114
+  offset: 0, 0
+  index: -1
+leg1r_light
+  rotate: true
+  xy: 2, 128
+  size: 126, 272
+  orig: 126, 272
+  offset: 0, 0
+  index: -1
+leg1r_light2
+  rotate: true
+  xy: 192, 2
+  size: 124, 175
+  orig: 126, 272
+  offset: 2, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 369, 12
+  size: 52, 126
+  orig: 52, 126
+  offset: 0, 0
+  index: -1
+leg2r
+  rotate: false
+  xy: 276, 128
+  size: 52, 126
+  orig: 52, 126
+  offset: 0, 0
+  index: -1
+leg3
+  rotate: false
+  xy: 483, 41
+  size: 58, 97
+  orig: 58, 97
+  offset: 0, 0
+  index: -1
+leg3r
+  rotate: false
+  xy: 423, 41
+  size: 58, 97
+  orig: 58, 97
+  offset: 0, 0
+  index: -1
+leg4
+  rotate: true
+  xy: 690, 158
+  size: 96, 122
+  orig: 96, 122
+  offset: 0, 0
+  index: -1
+leg4r
+  rotate: true
+  xy: 566, 158
+  size: 96, 122
+  orig: 96, 122
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 2, 2
+  size: 188, 124
+  orig: 188, 124
+  offset: 0, 0
+  index: -1

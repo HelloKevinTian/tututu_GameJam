@@ -1,0 +1,44 @@
+{
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root" }
+],
+"slots": [
+	{ "name": "bone", "bone": "bone", "attachment": "img_map_far2" },
+	{ "name": "img_map_far", "bone": "bone", "attachment": "img_map_far" }
+],
+"skins": {
+	"default": {
+		"bone": {
+			"img_map_far2": { "width": 12, "height": 7 }
+		},
+		"img_map_far": {
+			"img_map_far": { "scaleX": 1.34, "scaleY": 1.34, "width": 960, "height": 540 }
+		}
+	}
+},
+"animations": {
+	"idle": {},
+	"move": {
+		"bones": {
+			"bone": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.552, 0, 0.515, 0.97 ]
+					},
+					{
+						"time": 3.3,
+						"x": 0,
+						"y": -20,
+						"curve": [ 0.512, 0, 0.45, 1 ]
+					},
+					{ "time": 6.6666, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

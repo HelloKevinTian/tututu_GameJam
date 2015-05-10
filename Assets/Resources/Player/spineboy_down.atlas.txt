@@ -1,0 +1,54 @@
+
+spineboy_down.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+left-foot
+  rotate: false
+  xy: 73, 6
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+left-lower-leg
+  rotate: true
+  xy: 145, 3
+  size: 24, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+left-upper-leg
+  rotate: true
+  xy: 213, 10
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 179, 3
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+right-foot
+  rotate: false
+  xy: 109, 7
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+right-lower-leg
+  rotate: true
+  xy: 2, 2
+  size: 25, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+right-upper-leg
+  rotate: true
+  xy: 36, 5
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
